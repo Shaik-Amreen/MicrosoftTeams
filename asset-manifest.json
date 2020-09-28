@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MicrosoftTeams/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MicrosoftTeams/static/js/main.f2fee025.chunk.js",
+    "main.js.map": "/MicrosoftTeams/static/js/main.f2fee025.chunk.js.map",
+    "runtime-main.js": "/MicrosoftTeams/static/js/runtime-main.a1a98e56.js",
+    "runtime-main.js.map": "/MicrosoftTeams/static/js/runtime-main.a1a98e56.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/MicrosoftTeams/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.268e2092.chunk.js": "/MicrosoftTeams/static/js/2.268e2092.chunk.js",
+    "static/js/2.268e2092.chunk.js.map": "/MicrosoftTeams/static/js/2.268e2092.chunk.js.map",
+    "index.html": "/MicrosoftTeams/index.html",
+    "precache-manifest.aebbdadb4dd9a5ede00fc3f5d53b3085.js": "/MicrosoftTeams/precache-manifest.aebbdadb4dd9a5ede00fc3f5d53b3085.js",
+    "service-worker.js": "/MicrosoftTeams/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/MicrosoftTeams/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/MicrosoftTeams/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.268e2092.chunk.js.LICENSE.txt": "/MicrosoftTeams/static/js/2.268e2092.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a98e56.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.268e2092.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f2fee025.chunk.js"
+  ]
+}
